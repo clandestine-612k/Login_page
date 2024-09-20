@@ -1,6 +1,9 @@
-# to_do_app
+# Login Page
 
-A new Flutter project.
+Login Page using Flutter Bloc.
+Functionalities;-
+Sign up
+Logout
 
 ## Getting Started
 
