@@ -81,6 +81,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         email: emailController.text.trim(),
                         password: passwordController.text.trim()));
                   },
+                  name: 'Sign Up',
                 ),
               ],
             ),
